@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 import React from "react";
 import Carousel from "./components/Carousel";
-import { TikTokData1, TikTokData2, TikTokData3 } from "./data/data";
+import { TikTokData1, TikTokData2, TikTokData3 } from "../data/data";
 
 const Home: NextPage = () => {
   return (

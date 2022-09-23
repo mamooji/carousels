@@ -1,4 +1,4 @@
-import { TikTokDataType } from "../../types/TikTokDataType";
+import { TikTokDataType } from "../types/TikTokDataType";
 
 export const TikTokData1: Array<TikTokDataType> = [
   {
