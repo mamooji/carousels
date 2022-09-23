@@ -10,7 +10,7 @@ const Carousel: React.FC<Props> = ({ id, dataArray }) => {
   return (
     <div className="carousel w-full">
       {/* ////////////////////////////// */}
-      {dataArray.map((data, index) => {
+      {dataArray?.map((data, index) => {
         const slideNumber = index + 1;
         let nextSlide = slideNumber + 1;
         let prevSlide = slideNumber - 1;
