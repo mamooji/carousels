@@ -1,6 +1,6 @@
 # Carousels Project Oliver
 
-This is an app to help showcase my approach when it comes to creating Carousels
+This is an app to help showcase my approach when it comes to creating Carousels!
 
 ## To Start this app
 
